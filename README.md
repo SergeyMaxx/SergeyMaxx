@@ -10,6 +10,7 @@
 
 # 📊 GitHub Stats:
 
+
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -23,4 +24,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergeyMaxx)](https://github.com/SergeyMaxx/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeymaxx)](https://github.com/sergeymaxx/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergeymaxx&hide_progress=false)](https://github.com/sergeymaxx/github-readme-stats)
