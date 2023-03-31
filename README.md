@@ -24,5 +24,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeymaxx)](https://github.com/sergeymaxx/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeymaxx&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergeymaxx&hide_progress=false)](https://github.com/sergeymaxx/github-readme-stats)
