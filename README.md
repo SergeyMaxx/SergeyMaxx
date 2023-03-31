@@ -11,6 +11,8 @@
 # 📊 GitHub Stats:
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeymaxx&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergeymaxx&hide_progress=false)](https://github.com/sergeymaxx/github-readme-stats)
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -24,5 +26,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeymaxx&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergeymaxx&hide_progress=false)](https://github.com/sergeymaxx/github-readme-stats)
